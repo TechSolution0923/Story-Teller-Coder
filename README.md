@@ -125,5 +125,5 @@
     </a>
   </div>
   <br>
-  <img src="https://activity-graph.herokuapp.com/graph?username=smartfox1203&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
+  <img src="https://activity-graph.herokuapp.com/graph?username=charlesmaxwel&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
 </p>
