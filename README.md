@@ -9,9 +9,7 @@ Experienced Web Developer adept in all stages of advanced web development with 7
 technologies. Quickly learn and master new technologies and working in both team and self-directed settings. Adept at contributing to a highly collaborative work 
 environment, finding solutions, and determining customer satisfaction. As a problem solver, I always strive to deliver good value to clients and works very well with 
 team members.
-</p>
-
-**Languages and Tools :**  
+</p> 
 
 <table>
   <tr>
