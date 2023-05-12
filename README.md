@@ -11,7 +11,7 @@ environment, finding solutions, and determining customer satisfaction. As a prob
 team members.
 </p> 
 
-<br><br><br><br>
+<br><br>
 
 <table>
   <tr>
