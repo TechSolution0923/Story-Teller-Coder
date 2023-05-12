@@ -19,20 +19,6 @@
   team members.
   </p>
 
-
-### 𝐖𝐡𝐚𝐭 𝐈 𝐂𝐚𝐧 𝐃𝐨
- 
-- **DApps & Online Betting Website**
-
-- **Smart Contract & Crypto**
-
-- **Crypto Trading Platforms & Bots**
-
-- **AR & VR Web and Mobile application**
-
-- Video Conference Web & Mobile application
-##
-
 **Languages and Tools :**  
 
 <table>
