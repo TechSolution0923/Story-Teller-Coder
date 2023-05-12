@@ -1,10 +1,6 @@
 <h1 align="center"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="32"> Welcome To My Profile. </h1>
 <p align="center">
   <a href="https://github.com/smartfox1203"><img src="https://readme-typing-svg.herokuapp.com/?lines=Creative,%20Passionate%20Efficient;Senior%20Full%20Stack%20Engineer;8+%2B%20years%20of%20hands-on%20experience;&center=true&width=800&height=60"></a>
-  <a href="https://github.com/denvercoder1/github-readme-streak-stats" title="Go to Source">
-      <a href="https://github.com/anuraghazra/github-readme-stats">
-      <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adamsims1203&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" />
-  </a>
 </p>
 
 <h1 align="center">
@@ -65,6 +61,7 @@
   <img alt="C" src="https://img.shields.io/badge/C-00599C?logo=c&logoColor=white" />
   <img alt="C++" src="https://img.shields.io/badge/C%2B%2B-00599C?logo=cplusplus&logoColor=fff" />
   <img alt="C#" src="https://img.shields.io/badge/C%23-239120?logo=c-sharp&logoColor=white" />
+  <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adamsims1203&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" />
 </p>
 
 ### Frontend
