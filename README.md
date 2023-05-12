@@ -13,7 +13,7 @@ team members.
 
 <br><br>
 
-<table>
+<table align="left">
   <tr>
     <td><img src="https://cdn.iconscout.com/icon/free/png-128/go-77-1175166.png" width="100"></td>
     <td><img src="https://cdn.iconscout.com/icon/free/png-64/python-2-226051.png" width="100"></td>
