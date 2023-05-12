@@ -10,7 +10,7 @@
 - [ App architecture | Full documentation | Continuous integration | Task prioritization | Automatic deployment ]
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=adamsims1203&column=7&theme=onedark" />
+  <img src="https://github-profile-trophy.vercel.app/?username=charlesmaxwel&column=7&theme=onedark" />
 </div>
 
 
